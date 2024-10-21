@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 /**
  * The Main class of our application.
  */
-public class Main {
+public class MloggedInStatesain {
     /**
      * Builds and runs the CA architecture of the application.
      * @param args unused arguments
